@@ -25,9 +25,6 @@ Với khát vọng **mang thương hiệu Việt Nam ra toàn cầu**, chúng t�
 
 ## 👥 Ban lãnh đạo
 - **Nguyễn Quốc Việt** – CEO, Nhà sáng lập, ý tưởng táo bạo và khả thi  
-- **Maria Lopez** – CFO, Chiến lược tài chính & tăng trưởng  
-- **David Kim** – CTO, Đổi mới công nghệ & phát triển sản phẩm  
-- **Samantha Green** – CMO, Chiến lược thương hiệu toàn cầu
 
 ## 💼 Cơ hội nghề nghiệp
 Chúng tôi luôn tìm kiếm nhân tài:
