@@ -27,9 +27,6 @@ With the ambition to **bring a Vietnamese brand to the world**, we aim to help e
 
 ## 👥 Leadership Team
 - **Nguyễn Quốc Việt** – CEO & Founder, delivering bold yet practical visions  
-- **Maria Lopez** – CFO, financial strategy & growth expert  
-- **David Kim** – CTO, leading innovation & product development  
-- **Samantha Green** – CMO, driving global brand strategy
 
 ## 💼 Careers
 We’re always looking for top talent:
